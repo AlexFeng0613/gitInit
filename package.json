@@ -1,0 +1,25 @@
+{
+  "name": "nodejs_research",
+  "version": "1.0.0",
+  "description": "my own research on nodejs process, environment and system modules",
+  "main": "app.js",
+  "scripts": {
+    "start": "supervisor app.js &",
+    "test": "supervisor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexFeng0613/gitInit.git"
+  },
+  "author": "Alex Feng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexFeng0613/gitInit/issues"
+  },
+  "dependencies": {
+    "react": "latest",
+    "supervisor": "latest",
+    "passport": "latest"
+  },
+  "homepage": "https://github.com/AlexFeng0613/gitInit#readme"
+}
